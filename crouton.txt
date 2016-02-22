@@ -1,0 +1,30 @@
+INSTALLATION
+------------
+Common usage: gist.github.com/timrs2998/c802c6f4a631d248d70f
+Official: github.com/dnschneid/crouton
+
+
+STARTUP
+-------
+1) ^D at boot to enable developer mode
+2) Log in
+3) CTRL+ALT+T to open crosh
+4) >shell
+
+
+LAUNCH
+------
+# Start xfce graphical desktop
+sudo startxfce4
+
+# CLI
+sudo enter-chroot
+
+
+MISC
+----
+# Configuration
+sudo edit-chroot
+
+# Crouton (wget https://goo.gl/fd3zc -O crouton)
+sudo sh crouton
