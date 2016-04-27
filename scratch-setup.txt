@@ -1,0 +1,5 @@
+cd /var/cache/apt/archives/
+wget http://ubuntu.media.mit.edu/ubuntu//pool/universe/s/scratch/scratch_1.4.0.6~dfsg1-5~ubuntu12.04.1_all.deb -O Scratch1.4
+apt-get install Scratch1.4
+wget https://scratch.mit.edu/scratchr2/static/sa/Scratch-443.air
+
